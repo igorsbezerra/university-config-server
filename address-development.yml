@@ -21,3 +21,6 @@ management:
   tracing:
       sampling:
           probability: 1.0
+
+address:
+    name: address
