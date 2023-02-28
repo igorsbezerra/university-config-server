@@ -23,4 +23,4 @@ management:
           probability: 1.0
 
 address:
-    name: address-name
+    name: address
